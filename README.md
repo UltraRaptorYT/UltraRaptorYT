@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Soh Hong Yu, a Year 2 student at Singapore Polytechnic, currently studying Applied Artificial Intelligence and Analytics. I'm a tech enthusiast with an interest in the field of Data Science, enjoys doing side projects in Data Analysis using Python Programming.
+I am Soh Hong Yu, a Year 3 student at Singapore Polytechnic, currently studying Applied Artificial Intelligence and Analytics. I'm a tech enthusiast with an interest in the field of Data Science, enjoys doing side projects in Data Analysis using Python Programming.
 
 - 📊 Aspiring Data Scientist
 - 🧑‍💻 Find out more about me <a href="https://beacons.ai/ultraraptor">here</a>!
