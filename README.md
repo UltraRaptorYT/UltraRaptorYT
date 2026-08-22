@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ultraraptoryt" alt="ultraraptoryt" /></a> </p>
 
+[![UltraRaptorYT's GitHub stats](https://github-stats-extended.vercel.app/api?username=UltraRaptorYT)](https://github.com/stats-organization/github-stats-extended)
+
 - 👨‍💻 All of my projects are available at [https://beacons.ai/UltraRaptor](https://beacons.ai/UltraRaptor)
 
 - 📫 How to reach me **sohhongyu@gmail.com**
