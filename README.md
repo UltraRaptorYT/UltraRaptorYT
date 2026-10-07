@@ -63,6 +63,8 @@ I'm especially interested in **applied AI, full-stack product engineering, autom
 
 </div>
 
+<img src="https://github-profile-trophy-unserori.vercel.app/?username=UltraRaptorYT&theme=chalk&no-bg=true" alt="Github trophy"/>
+
 ---
 
 <div align="center">
